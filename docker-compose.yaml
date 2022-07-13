@@ -1,5 +1,5 @@
 services:
-  okteto-vless:
+  okteto-1:
     build: .
     shm_size: 2.6gb
     ports:
